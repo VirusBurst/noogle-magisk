@@ -1,3 +1,8 @@
+> [!NOTE]
+> Maybe, just maybe, I do stuff here. Maybe good stuff or not
+> 
+> Maybe stuff like "Press the button to wget latest microG inside Magisk instead of flashing ZIPs
+
 # noogle-magisk
 
 Magisk modules for removing/replacing Google applications on stock Android 11-15.
