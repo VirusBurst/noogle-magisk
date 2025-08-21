@@ -2,6 +2,8 @@
 > Maybe, just maybe, I do stuff here. Maybe good stuff or not
 > 
 > Maybe stuff like "Press the button to wget latest microG inside Magisk instead of flashing ZIPs
+>
+> microG version: [v0.3.7.250932](https://github.com/microg/GmsCore/releases/tag/v0.3.7.250932)
 
 # noogle-magisk
 
